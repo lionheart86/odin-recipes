@@ -1,2 +1,4 @@
 # odin-recipes
 Recipes in HTML sauce
+
+Welcome to my recipe website project! Here, I will be using HTML to create a dynamic and user-friendly site that will showcase a variety of great recipes. I will also be incorporating images and links to enhance the overall user experience. Additionally, I will be utilizing the basic functionalities of git and GitHub for version control, ensuring that any changes or updates made to the site are properly tracked and documented. I am excited to embark on this project and share my passion for cooking with all of you. So stay tuned and get ready to explore web development
